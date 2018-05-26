@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo 10\Ejercicio1.cs" />
+    <Compile Include="Capitulo 10\Ejercicio2.cs" />
+    <Compile Include="Capitulo 10\Ejercicio3.cs" />
+    <Compile Include="Capitulo 10\Ejercicio4.cs" />
+    <Compile Include="Capitulo 10\Ejercicio5.cs" />
+    <Compile Include="Capitulo 12\Ejercicio1.cs" />
+    <Compile Include="Capitulo 12\Ejercicio2.cs" />
+    <Compile Include="Capitulo 9\Ejercicio1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,5 +78,6 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
